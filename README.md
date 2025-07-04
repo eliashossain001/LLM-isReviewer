@@ -19,5 +19,5 @@ This project simulates a **top-tier AI conference reviewer** (e.g., NeurIPS, ICM
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/gpt4-paper-reviewer.git
-cd gpt4-paper-reviewer
+https://github.com/eliashossain001/LLM-isReviewer.git
+cd LLM-isReviewer
